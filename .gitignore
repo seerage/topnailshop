@@ -1,0 +1,4 @@
+# Ocstore config files
+ocstore/config.php
+ocstore/admin/config.php
+ocstore/.htaccess
